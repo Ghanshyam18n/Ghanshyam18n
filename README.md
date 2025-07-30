@@ -1,9 +1,9 @@
 # Hi, I am Ghanshyam Sharma
 
-I'm a Computer Science graduate with strong skills in SDET.  
+I am a Computer Science graduate with strong skills in SDET.  
 Currently working on manual testing projects and building hands-on experience through real-time testing and documentation.
 
-I’ve successfully worked on:
+I have successfully worked on:
 - Writing detailed test plans and test cases
 - Reporting bugs with severity levels and reproducible steps
 - Preparing professional QA documents like Bug Reports and Test Summary Reports
