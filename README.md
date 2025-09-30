@@ -1,7 +1,6 @@
 Hi there, I'm Ghanshyam Sharma
 
 Computer Science Graduate (2021–2025)  
-Fresher QA Engineer | Strong in Manual Testing | Learning Automation  
 
 
 About Me:
