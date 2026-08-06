@@ -1,4 +1,4 @@
-# Hi there, I'm Ghanshyam Sharma 👋
+# Hi there, I am Ghanshyam Sharma 
 
 ## Software QA Engineer | B.Tech CSE (2025)
 
@@ -10,17 +10,44 @@ My role provided exposure to live applications, SQL-based data verification, bas
 
 My primary career goal is Software Testing and QA Automation. I have completed training in Manual Testing, SQL, Core Java, Selenium WebDriver, API Testing, and Test Automation, and I continuously strengthen my skills through practical automation and testing projects.
 
-## Professional Experience
+## Professional Journey
 
 ### Executive – Information Technology
 **Cogent E-Services**
 **Nov 2025 – Aug 2026**
 
-- Supported live business applications through L1 technical support activities.
+- Supported live enterprise applications through L1 application technical support.
 - Performed SQL-based data verification and report validation.
 - Conducted basic API validation using Postman.
-- Assisted with application configuration, user access, and issue analysis.
-- Escalated complex issues to L2 teams following standard operating procedures.
+- Assisted with application configuration and user access management.
+- Investigated application issues and escalated complex problems to L2 teams.
+
+### Software Testing Trainee
+**QSpiders, Hyderabad**
+**May 2025 – Oct 2025**
+
+Completed industry-oriented training in:
+
+- Manual Testing
+- SQL
+- Core Java
+- Selenium WebDriver
+- TestNG
+- API Testing using Postman
+- Automation Framework Basics
+
+Worked on practical assignments and automation projects throughout the training period.
+
+### Manual Software Testing Intern
+**Ramraj Technology Solutions Pvt. Ltd., Bhopal**
+**Jun 2024 – Jul 2024**
+
+- Learned SDLC and STLC fundamentals.
+- Practiced test case design and execution.
+- Participated in software validation activities.
+- Prepared basic defect reports and testing documentation.
+
+---
 
 ## Technical Skills
 
