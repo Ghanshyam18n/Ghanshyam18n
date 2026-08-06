@@ -1,44 +1,114 @@
-Hi there, I'm Ghanshyam Sharma
+# Hi there, I'm Ghanshyam Sharma 
 
-Computer Science Graduate (2021–2025)  
+## Entry-Level QA Engineer | B.Tech CSE (2021–2025)
 
+### About Me
 
-About Me:
-----------
-I'm passionate about software quality and have completed training in SQL and Manual Testing. I am currently learning Automation Testing, including Selenium WebDriver, TestNG, and writing automation scripts using Java.
+I am a Computer Science graduate with professional experience as an Executive – Information Technology and a strong interest in Software Testing and QA Automation.
 
-Alongside structured learning, I actively work on self-initiated projects to improve my validation logic, documentation skills, and bug reporting approach. I consistently focus on improving test coverage and writing clean, well-structured QA documents.
+My current role has given me exposure to live applications, SQL-based data verification, API validation using Postman, application troubleshooting, and production support activities.
 
-Skills:
--------
-- Manual Testing (STLC, SDLC, Test Scenarios, Defect Life Cycle)
-- Writing Test Plans, Test Cases, and Bug Reports
-- SQL (DDL, DML, Joins)
-- Core Java 
-- Automation Testing (Selenium WebDriver, TestNG – learning)
-- Jira (Bug tracking), Eclipse IDE, Postman (API basics)
+My long-term career goal is to build my career in Software Testing and Automation. I have completed training in Manual Testing, SQL, Core Java and Selenium, and I continuously improve my skills by building automation projects and practicing real interview scenarios.
 
-Projects:
----------
-1. ATM Simulation System (Java – OOP)
-   - Designed and tested ATM operations like login, withdraw, deposit, balance enquiry
-   - Practiced writing validation logic and functional test documentation
+---
 
-2. OrangeHRM Manual Testing
-   - Tested real-world modules: Login, Admin, Leave, PIM
-   - Prepared test plans, test cases, and bug reports using industry practices
+## Technical Skills
 
-Learning Focus:
----------------
-- Manual Testing: Completed
-- SQL: Completed
-- Automation Testing: Currently learning Selenium and writing automation test scripts
-- Improving QA documentation by working on practical validation-based projects
+### Manual Testing
+- SDLC & STLC
+- Test Scenario & Test Case Design
+- Defect Life Cycle
+- Smoke, Sanity, Regression & Retesting
+- Bug Reporting
 
-Contact:
---------
-Email     : ghanshyam18n@gmail.com  
-LinkedIn  : https://www.linkedin.com/in/ghanshyam-sharma-262205223  
-GitHub    : https://github.com/Ghanshyam18n
+### Automation Testing
+- Selenium WebDriver
+- TestNG
+- Page Object Model (POM)
+- Data-Driven Framework
+- Core Java
 
-Thanks for visiting my profile.
+### Database
+- SQL
+- DDL, DML
+- Joins
+- Aggregate Functions
+- GROUP BY & HAVING
+
+### API Testing
+- Postman
+- GET, POST, PUT, PATCH, DELETE
+- JSON Validation
+- API Testing
+
+### Tools
+- Eclipse
+- IntelliJ IDEA
+- Git
+- GitHub
+- Jira
+- Jenkins
+
+## Professional Experience
+
+### Executive – Information Technology
+**Cogent E-Services**
+
+Worked in an L1 Application Technical Support environment.
+
+Responsibilities included:
+
+- User access and application configuration support.
+- Basic application troubleshooting using SOPs.
+- SQL-based data verification and report generation.
+- Basic API validation using Postman.
+- Configuration validation before operational use.
+- Issue analysis and escalation to L2 teams.
+- Working with live production applications.
+
+---
+
+## Projects
+
+### Selenium Automation Framework
+- Developed automation scripts using Selenium WebDriver, Java and TestNG.
+- Implemented Page Object Model.
+- Automated end-to-end test scenarios.
+- Generated execution reports.
+
+### OrangeHRM Manual Testing
+- Prepared Test Plan
+- Wrote Test Scenarios
+- Created Test Cases
+- Executed Test Cases
+- Reported Defects
+
+### ATM Simulation System
+- Java OOP project
+- Functional validation
+- Test documentation
+- Input validation
+
+---
+
+## Currently Focusing On
+
+- Advanced Selenium
+- Automation Framework Improvement
+- SQL Practice
+- Manual Testing
+- API Testing
+- Jenkins
+- Interview Preparation
+
+---
+
+## Connect With Me
+
+📧 Email: ghanshyam18n@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/ghanshyam-sharma-262205223
+
+💻 GitHub:
+github.com/Ghanshyam18n
