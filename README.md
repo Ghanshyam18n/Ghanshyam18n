@@ -1,6 +1,6 @@
 # Hi there, I'm Ghanshyam Sharma 👋
 
-## Entry-Level Software Test Engineer | B.Tech CSE (2025)
+## Software QA Engineer | B.Tech CSE (2025)
 
 ### About Me
 
