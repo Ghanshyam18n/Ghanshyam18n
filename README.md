@@ -4,11 +4,12 @@
 QA professional with hands-on experience in manual testing, SQL verification, and basic API testing. Currently focused on building strong skills in Selenium automation and test frameworks.
 
 ### Experience
-- **Executive – IT** | Cogent E-Services (Nov 2025 – Aug 2026)  
-  L1 support, SQL data verification, Postman API checks, and issue troubleshooting
 - **Software Testing Trainee** | QSpiders (May 2025 – Oct 2025)  
   Manual Testing, Java, Selenium, TestNG, API Testing
 - **Manual Testing Intern** | Ramraj Technology Solutions (Jun–Jul 2024)
+- 
+- **Executive - Information Technology** | Cogent E-Services (Nov 2025 – Aug 2026)  
+  L1 support, SQL data verification, Postman API checks, and issue troubleshooting
 
 ### Skills
 **Testing:** Manual Testing, SDLC/STLC, Test Cases, Defect Management  
