@@ -7,7 +7,6 @@ QA professional with hands-on experience in manual testing, SQL verification, an
 - **Software Testing Trainee** | QSpiders (May 2025 – Oct 2025)  
   Manual Testing, Java, Selenium, TestNG, API Testing
 - **Manual Testing Intern** | Ramraj Technology Solutions (Jun–Jul 2024)
-- 
 - **Executive - Information Technology** | Cogent E-Services (Nov 2025 – Aug 2026)  
   L1 support, SQL data verification, Postman API checks, and issue troubleshooting
 
