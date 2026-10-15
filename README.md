@@ -19,4 +19,4 @@ Selenium Automation Framework · SwagLabs Automation · E-Commerce API Testing �
 
 ### Connect
 📧 ghanshyam18n@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ghanshyam-sharma-262205223) · [GitHub](https://github.com/Ghanshyam18n)
+🔗 [LinkedIn](https://www.linkedin.com/in/ghanshyam-sharma-262205223) · [Portfolio]((http://ghanshyam-portfolio-seven.vercel.app/))
