@@ -28,7 +28,7 @@ Passionate QA professional with practical expertise in Manual Testing (SDLC/STLC
 ---
 
 ### 🚀 Key Repositories & Projects
-- 🔹 **[Banking Portal Manual Testing (ParaBank)](https://github.com/Ghanshyam18n/Banking-Portal-Manual-Testing-ParaBank)** — Complete STLC artifacts, test scenarios, and bug reports.
+- 🔹 **[Manual Testing ](github.com/Ghanshyam18n/ECommerce-Website-Manual-Testing))** — Complete STLC artifacts, test scenarios, and bug reports.
 - 🔹 **[Selenium Automation Framework](https://github.com/Ghanshyam18n/java-sel-automation-lab)** — Hybrid POM framework with TestNG and data-driven testing.
 - 🔹 **[REST API Testing](https://github.com/Ghanshyam18n/API-Testing)** — Endpoint validation suites and collection testing using Postman.
 
