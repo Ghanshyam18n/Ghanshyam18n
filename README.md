@@ -1,22 +1,40 @@
+# Hi, I'm Ghanshyam Sharma 
+**Software QA Engineer | Manual & Automation Testing | B.Tech CSE (2025)**
 
-**Software QA Engineer | B.Tech CSE (2025)**
+Passionate QA professional with practical expertise in Manual Testing (SDLC/STLC), API Testing (Postman), SQL verification, and Test Automation using Selenium WebDriver with Java.
 
-QA professional with hands-on experience in manual testing, SQL verification, and basic API testing. Currently focused on building strong skills in Selenium automation and test frameworks.
+---
 
-### Experience
-- **Software Testing Trainee** | QSpiders (May 2025 – Oct 2025)  
-  Manual Testing, Java, Selenium, TestNG, API Testing
-- **Manual Testing Intern** | Ramraj Technology Solutions (Jun–Jul 2024)
+### 🌐 Centralized Showcase
+**[View My Interactive Portfolio & Live Test Reports ↗](https://ghanshyam-portfolio-seven.vercel.app/)**  
+*(Live test cases, execution artifacts, and automated framework demos in one place)*
 
-### Skills
-**Testing:** Manual Testing, SDLC/STLC, Test Cases, Defect Management  
-**Automation:** Selenium WebDriver, Java, TestNG, POM, Karate  
-**API & DB:** Postman, REST API, SQL  
-**Tools:** JIRA, Git, Jenkins (learning)
+---
 
-### Projects
-Selenium Automation Framework · SwagLabs Automation · E-Commerce API Testing · Karate API Automation · Manual Testing Projects
+###  Experience & Training
+- **Software Testing Trainee** | QSpiders *(May 2025 – Oct 2025)*  
+  *Hands-on manual testing processes, TestNG, Java, Selenium WebDriver, and REST API testing.*
+- **Manual Testing Intern** | Ramraj Technology Solutions *(Jun 2024 – Jul 2024)*  
+  *Test scenario design, functional test execution, and defect lifecycle tracking.*
 
-### Connect
-📧 ghanshyam18n@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ghanshyam-sharma-262205223) · [Portfolio]((http://ghanshyam-portfolio-seven.vercel.app/))
+---
+
+### 🛠️ Technical Skills
+- **Testing:** Manual Testing, SDLC / STLC, Test Scenarios & Cases, Defect Life Cycle, Regression Testing
+- **Automation:** Selenium WebDriver, Core Java, TestNG, Page Object Model (POM), Karate
+- **API & Database:** Postman, REST API Validation, SQL Queries & Verification
+- **Tools:** Jira, Git, GitHub, Jenkins (CI/CD basics)
+
+---
+
+### 🚀 Key Repositories & Projects
+- 🔹 **[Banking Portal Manual Testing (ParaBank)](https://github.com/Ghanshyam18n/Banking-Portal-Manual-Testing-ParaBank)** — Complete STLC artifacts, test scenarios, and bug reports.
+- 🔹 **[Selenium Automation Framework](https://github.com/Ghanshyam18n/java-sel-automation-lab)** — Hybrid POM framework with TestNG and data-driven testing.
+- 🔹 **[REST API Testing](https://github.com/Ghanshyam18n/API-Testing)** — Endpoint validation suites and collection testing using Postman.
+
+---
+
+### 📬 Get In Touch
+- 📧 **Email:** [ghanshyam18n@gmail.com](mailto:ghanshyam18n@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ghanshyam-sharma-262205223](https://www.linkedin.com/in/ghanshyam-sharma-262205223)
+- 🌐 **Web Portfolio:** [ghanshyam-portfolio-seven.vercel.app](https://ghanshyam-portfolio-seven.vercel.app/)
